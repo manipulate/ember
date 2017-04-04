@@ -1,0 +1,12 @@
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\bin\Debug\Ember Debugger.exe.config
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\bin\Debug\Ember Debugger.exe
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\bin\Debug\Ember Debugger.pdb
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\obj\Debug\Ember Debugger.csprojResolveAssemblyReference.cache
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\obj\Debug\Ember Debugger.exe
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\obj\Debug\Ember Debugger.pdb
+C:\Users\Gage\Documents\Ember\Ember Debugger\bin\Debug\Ember Debugger.exe.config
+C:\Users\Gage\Documents\Ember\Ember Debugger\obj\Debug\Ember Debugger.exe
+C:\Users\Gage\Documents\Ember\Ember Debugger\obj\Debug\Ember Debugger.pdb
+C:\Users\Gage\Documents\Ember\Ember Debugger\bin\Debug\Ember Debugger.exe
+C:\Users\Gage\Documents\Ember\Ember Debugger\bin\Debug\Ember Debugger.pdb
+C:\Users\Gage\Documents\Ember\Ember Debugger\obj\Debug\Ember Debugger.csprojResolveAssemblyReference.cache

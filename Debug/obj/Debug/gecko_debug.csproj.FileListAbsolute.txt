@@ -1,0 +1,9 @@
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\bin\Debug\gecko_debug.exe.config
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\bin\Debug\gecko_debug.exe
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\bin\Debug\gecko_debug.pdb
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\obj\Debug\gecko_debug.csprojResolveAssemblyReference.cache
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\obj\Debug\gecko_debug.exe
+c:\users\gage\documents\visual studio 2013\Projects\gecko_debug\gecko_debug\obj\Debug\gecko_debug.pdb
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\bin\Debug\gecko_debug.exe.config
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\obj\Debug\gecko_debug.exe
+C:\Users\Gage\Documents\gecko_debug\gecko_debug\obj\Debug\gecko_debug.pdb
