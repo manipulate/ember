@@ -1,5 +1,6 @@
-# ember
-<p>ember is a shitty Club Penguin emulator I wrote in 2014.</p>
-<p>barely functional - <strong>DO NOT</strong> use in a production server</p>
-<br />
-<p>thanks to: arthur & lewis</p>
+# Ember
+Ember is a shitty, experimental Club Penguin emulator I wrote in 2014.
+
+thanks to: arthur & lewis
+
+### This project has been discontinued & hasn't been maintained in 4 years.
