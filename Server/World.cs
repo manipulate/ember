@@ -33,11 +33,13 @@
         protected override void HandleGetPuffleDigCooldown(Penguin penguin, string data)
         {
             penguin.WriteData("%xt%getdigcooldown%-1%120%");
+            
         }
 
         protected override void HandleGetPuffleCareInventory(Penguin penguin, string data)
         {
             penguin.WriteData("%xt%pgpi%"+penguin.intRoomId+"%$careInventory%");
+            
         }
 
         protected override void HandleJoinRoom(Penguin penguin, string data)
